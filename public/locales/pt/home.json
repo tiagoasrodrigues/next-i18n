@@ -1,3 +1,9 @@
 {
-  "key": "Página inicial"
+  "title": "Página inicial",
+  "description": "Essa é a página inicial",
+  "contactLink": "Ir para Contato",
+  "datimeLink": "Ir para Date & Time",
+  "unreadMessages_zero": "Você leu todas as mensagens",
+  "unreadMessages_one": "Você tem uma mensagem não lida",
+  "unreadMessages_other": "Você tem {{count}} mensagens não lidas"
 }
